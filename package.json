@@ -1,0 +1,14 @@
+{
+  "name": "restful-web-service-nodejs",
+  "version": "1.0.0",
+  "description": "an example of an API with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nisan sabag",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

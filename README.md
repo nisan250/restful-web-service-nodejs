@@ -1,2 +1,2 @@
 # restful-web-service-nodejs
-in progress...an example of a RESTful web service API with Node.js and Express
+Example of a RESTful web service API with Node.js, Express and MongoDB 
